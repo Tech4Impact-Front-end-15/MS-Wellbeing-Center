@@ -24,7 +24,7 @@
                 <a class="flex justify-center sm:justify-start items-center" href="#">
                     <img src="./dir/img/MentalHack.png" alt="MentalHackLogo">
                 </a>                
-                <div class="sm:mx-8 flex flex-nowrap justify-center items-center py-1 px-2 text-[12px] sm:text-[16px] sm:shadow-none shadow-lg w-full sm:w-auto">
+                <div class="sm:mx-8 flex flex-nowrap justify-around items-center py-1 px-2 text-[12px] sm:text-[16px] sm:shadow-none shadow-lg w-full sm:w-auto">
                     <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#">
                         Beranda
                     </a>
@@ -39,17 +39,20 @@
         </div>
     </nav>
     <home id="home" class="py-24">
-        <div class="container flex w-full mx-auto">
-            <div class="flex items-center justify-around align-center">
+        <div class="container flex w-full mx-auto sm:py-0">
+            <div class="block sm:flex items-center justify-around align-center">
+                <div class="flex justify-center items-center sm:hidden">
+                    <img src="./dir/img/Dokter.png" alt="FP_Light" class="dark:hidden">
+                </div>
                 <!-- Left Side -->
-                <div class="flex justify-center items-center text-left w-1/2">
+                <div class="flex justify-center items-center text-center sm:text-left w-full sm:w-1/2 py-12">
                     <div>
-                        <h1 class="text-4xl font-bold pb-4 text-textSecondary">MentalHack</h1>
-                        <p class="text-left font-medium">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem beatae repudiandae iste quae pariatur modi? Tempore culpa asperiores, porro molestiae esse quis repudiandae. Possimus dolorem cumque perferendis recusandae vel quasi.</p>
+                        <h1 class="text-4xl font-bold pb-4 text-textSecondary ">MentalHack</h1>
+                        <p class="text-justify sm:text-left font-medium text-textBlack mx-10 sm:mx-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem beatae repudiandae iste quae pariatur modi? Tempore culpa asperiores, porro molestiae esse quis repudiandae. Possimus dolorem cumque perferendis recusandae vel quasi.</p>
                     </div>
                 </div>
                 <!-- Right Side -->
-                <div class="flex justify-center items-center">
+                <div class="hidden sm:flex justify-center items-center">
                     <img src="./dir/img/Dokter.png" alt="Hero">
                 </div>
             </div>
@@ -60,7 +63,7 @@
             <h1 class="font-bold text-4xl text-center text-textWhite italic">NEWS BLOG</h1>
         </header>
         <main class="container mx-auto w-full mt-16">
-            <div class="grid grid-cols-1 lg:grid-cols-3 gap-6 content-center">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 content-center">
                 <div class="p-4 bg-bgSekunder rounded-lg shadow-xl outline-textPrimary outline outline-offset-2 opacity-[95%]">
                     <div class="flex flex-wrap items-center">
                         <img src="./dir/img/dummyBG.png" alt="dummyBg" class="rounded-lg lg:h-[300px]">
@@ -69,7 +72,7 @@
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, eos cum expedita enim saepe minus labore veniam deleniti quo quisquam. Voluptate, expedita alias neque, ipsa quis quasi ex iusto quod quaerat sint, illum quae. Eligendi provident eveniet tenetur, inventore suscipit amet facere minus aperiam a iusto ipsum quis repudiandae reiciendis?
                         </p>
                         <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-bgSekunder lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
-                            <a href="#" target="_blank" class="font-semibold">Readmore<span class="hidden lg:inline">...</span></a>
+                            <a href="#" target="_blank" class="font-semibold text-textWhite sm:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
                         </div>
                     </div>
                 </div>
@@ -81,7 +84,7 @@
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, eos cum expedita enim saepe minus labore veniam deleniti quo quisquam. Voluptate, expedita alias neque, ipsa quis quasi ex iusto quod quaerat sint, illum quae. Eligendi provident eveniet tenetur, inventore suscipit amet facere minus aperiam a iusto ipsum quis repudiandae reiciendis?
                         </p>
                         <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-bgSekunder lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
-                            <a href="#" target="_blank" class="font-semibold">Readmore<span class="hidden lg:inline">...</span></a>
+                            <a href="#" target="_blank" class="font-semibold text-textWhite sm:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
                         </div>
                     </div>
                 </div>
@@ -93,7 +96,7 @@
                         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos, eos cum expedita enim saepe minus labore veniam deleniti quo quisquam. Voluptate, expedita alias neque, ipsa quis quasi ex iusto quod quaerat sint, illum quae. Eligendi provident eveniet tenetur, inventore suscipit amet facere minus aperiam a iusto ipsum quis repudiandae reiciendis?
                         </p>
                         <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-bgSekunder lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
-                            <a href="#" target="_blank" class="font-semibold">Readmore<span class="hidden lg:inline">...</span></a>
+                            <a href="#" target="_blank" class="font-semibold text-textWhite sm:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
                         </div>
                     </div>
                 </div>
@@ -101,6 +104,11 @@
             </div>
         </main>
     </section>
+    <footer class="bg-textPrimary w-full py-2 shadow-lg">
+        <div class="flex flex-warp justify-center items-center text-textWhite text-[12px]">
+            <h6>Tech4Impact x Kampus Merdeka Batch 3 : <span class="sm:inline block font-semibold text-center sm:text-left">Front-End Web Developer 15</span></h6>
+        </div>
+    </footer>
     <!-- DarkMode JS -->
     <!-- <script src="./src/js/module/darkMode.js"></script> -->
     <!-- JS -->

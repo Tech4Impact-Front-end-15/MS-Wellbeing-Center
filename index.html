@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- TailwindCSS -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.3/dist/flowbite.min.css" /> -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="./src/tailwind/tailwind.js"></script>
+    
+    <!-- Theme Script -->
+    <!-- <script src="./src/js/script.js"></script> -->
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./src/css/style.css">
+
+    <title>Landing Page</title>
+</head>
+<body class="bg-bgSekunder text-textBlack">
+    <nav class="bg-bgPrimary w-full shadow-xl">
+        <div class="container mx-auto">
+            <div class="py-[1rem] block sm:flex sm:flex-wrap text-[#fafafa] items-center font-semibold">
+                <a class="flex justify-center sm:justify-start items-center" href="#">
+                    <img src="./dir/img/MentalHack.png" alt="MentalHackLogo">
+                </a>                
+                <div class="sm:mx-8 flex flex-nowrap justify-around items-center py-1 px-2 text-[12px] sm:text-[16px] sm:shadow-none shadow-lg w-full sm:w-auto">
+                    <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#">
+                        Beranda
+                    </a>
+                    <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#">
+                        Blogs
+                    </a>
+                    <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#about">
+                        Our Team
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <home id="home" class="py-24">
+        <div class="container flex w-full mx-auto sm:py-0">
+            <div class="block sm:flex items-center justify-around align-center">
+                <div class="flex justify-center items-center sm:hidden">
+                    <img src="./dir/img/Dokter.png" alt="FP_Light" class="dark:hidden">
+                </div>
+                <!-- Left Side -->
+                <div class="flex justify-center items-center text-center sm:text-left w-full sm:w-1/2 py-12">
+                    <div>
+                        <h1 class="text-4xl font-bold pb-4 text-textSecondary ">MentalHack</h1>
+                        <p class="text-justify sm:text-left font-medium text-textBlack mx-10 sm:mx-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem beatae repudiandae iste quae pariatur modi? Tempore culpa asperiores, porro molestiae esse quis repudiandae. Possimus dolorem cumque perferendis recusandae vel quasi.</p>
+                    </div>
+                </div>
+                <!-- Right Side -->
+                <div class="hidden sm:flex justify-center items-center">
+                    <img src="./dir/img/Dokter.png" alt="Hero">
+                </div>
+            </div>
+        </div>
+    </home>
+    <section class="mt-12 px-12 py-12 bg-bgPrimary">
+        <header class="w-full mx-auto flex flex-wrap justify-center">
+            <h1 class="font-bold text-4xl text-center text-textWhite italic">NEWS BLOG</h1>
+        </header>
+        <main class="container mx-auto w-full mt-16">
+            <div id="newsblog" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 content-center"></div>
+        </main>
+    </section>
+    <about id="about">
+        <div class="container mx-auto px-10">
+            <div class="flex flex-wrap justify-center items-center w-full pt-28 lg:pt-24 pb-6">
+                <h1 class="text-4xl font-semibold text-textPrimary">Our Team</h1>
+            </div>
+            <div class="relative">
+                <ul id="slider" class="shadow-lg">
+                    <li class="relative">
+                         <div class="bg-textSecondary h-full md:h-[500px] object-cover w-full rounded-xl block md:flex items-center justify-around align-center bg-contain bg-no-repeat bg-right-top" style="background-image: url(./dir/img/hero-bg.png);">
+                            <div class="flex justify-center items-center md:hidden pt-12">
+                                <img src="./dir/img/Zaky.png" alt="Hero" class="h-[400px]">
+                            </div>
+                            <div class="flex md:ml-14 lg:ml-36 justify-center md:justify-start items-center text-center md:text-left w-full md:w-1/2 pb-12 md:py-12">
+                                <div>
+                                    <h1 class="lg:text-4xl font-bold pb-4 text-textWhite text-xl">Muhammad Zaky Rahmadany</h1>
+                                    <p class="text-lg lg:text-2xl font-semibold text-textWhite ">Scrum Master</p>
+                                    <p class="text-lg lg:text-2xl font-semibold text-textWhite ">Landing Page Developer</p>
+                                </div>
+                            </div>
+                            <div class="hidden md:flex justify-center items-center w-1/2 pt-12">
+                                <img src="./dir/img/Zaky.png" alt="Hero" class="h-[400px]">
+                            </div>
+                        </div>
+                        <div class="absolute top-0 h-full w-full text-center mt-4">
+                            <h2 class="text-2xl font-bold text-textWhite">Leader</h2>
+                        </div>
+                    </li>
+                    <li class="relative hidden ">
+                        <div class="bg-textSecondary h-full md:h-[500px] object-cover w-full rounded-xl block md:flex items-center justify-around align-center bg-contain bg-no-repeat bg-right-top" style="background-image: url(./dir/img/hero-bg.png);">
+                            <div class="flex justify-center items-center md:hidden pt-12">
+                                <img src="./dir/img/Dokter.png" alt="Hero" class="h-[400px]">
+                            </div>
+                            <div class="flex md:ml-14 lg:ml-36 justify-center md:justify-start items-center text-center md:text-left w-full md:w-1/2 pb-12 md:py-12">
+                                <div>
+                                    <h1 class="lg:text-4xl font-bold pb-4 text-textWhite text-xl">Raihan Thobi</h1>
+                                    <p class="text-lg lg:text-2xl font-semibold text-textWhite ">List Blog Page Developer</p>
+                                </div>
+                            </div>
+                            <div class="hidden md:flex justify-center items-center w-1/2 pt-12">
+                                <img src="./dir/img/Dokter.png" alt="Hero" class="h-[400px]">
+                            </div>
+                        </div>
+                        <div class="absolute top-0 h-full w-full text-center mt-4">
+                            <h2 class="text-2xl font-bold text-textWhite">Member</h2>
+                        </div>
+                    </li>
+                    <li class="relative hidden ">
+                        <div class="bg-textSecondary h-full md:h-[500px] object-cover w-full rounded-xl block md:flex items-center justify-around align-center bg-contain bg-no-repeat bg-right-top" style="background-image: url(./dir/img/hero-bg.png);">
+                            <div class="flex justify-center items-center md:hidden pt-12">
+                                <img src="./dir/img/Suca.png" alt="Hero" class="h-[400px]">
+                            </div>
+                            <div class="flex md:ml-14 lg:ml-36 justify-center md:justify-start items-center text-center md:text-left w-full md:w-1/2 pb-12 md:py-12">
+                                <div>
+                                    <h1 class="lg:text-4xl font-bold pb-4 text-textWhite text-xl">Febrila Sucia</h1>
+                                    <p class="text-lg lg:text-2xl font-semibold text-textWhite ">View Blog Page Developer</p>
+                                </div>
+                            </div>
+                            <div class="hidden md:flex justify-center items-center w-1/2 pt-12">
+                                <img src="./dir/img/Suca.png" alt="Hero" class="h-[400px]">
+                            </div>
+                        </div>
+                        <div class="absolute top-0 h-full w-full text-center mt-4">
+                            <h2 class="text-2xl font-bold text-textWhite">Member</h2>
+                        </div>
+                    </li>
+                </ul>
+                <div class="absolute px-3 flex h-full w-full top-0 left-0">
+                    <div class="my-auto w-full flex justify-between">
+                        <button id="prev" class="bg-[#fff] p-3 rounded-full bg-opacity-80 shadow-lg hover:scale-[1.1] duration-300 transform ease-in-out">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+                              </svg>              
+                        </button>
+                        <button id="next" class="bg-[#fff] p-3 rounded-full bg-opacity-80 shadow-lg hover:scale-[1.1] duration-300 transform ease-in-out">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+                              </svg>  
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </about>
+    <footer class="mt-24 bg-textPrimary w-full py-2 shadow-lg">
+        <div class="flex flex-warp justify-center items-center text-textWhite text-[12px]">
+            <h6>Tech4Impact x Kampus Merdeka Batch 3 : <span class="sm:inline block font-semibold text-center sm:text-left">Front-End Web Developer 15</span></h6>
+        </div>
+    </footer>
+
+    <!-- DarkMode JS -->
+    <!-- <script src="./src/js/module/darkMode.js"></script> -->
+    <!-- JS -->
+    <script type="module" src="./src/js/script.js"></script>
+    <!-- <script src="https://unpkg.com/flowbite@1.5.3/dist/flowbite.js"></script> -->
+</body>
+</html>

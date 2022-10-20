@@ -43,3 +43,6 @@ nav{
     inset-inline-end: 0; /* "right" */
     background: white;
   }
+.slideImg{
+  transition: 1s;
+}

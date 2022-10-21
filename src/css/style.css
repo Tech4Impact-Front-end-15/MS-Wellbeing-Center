@@ -1,3 +1,20 @@
+/* Import */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap");
+
+/* Tag Customize */
+
+body{
+    font-family: "Poppins", sans-serif;
+    margin:0;
+    padding:0;
+    height:100%;
+}
+html{
+    scroll-behavior: smooth;
+    --lh: 1.4rem;
+    line-height: var(--lh);
+    min-height: 100vh;
+}
 nav{
     opacity: 90%;
     overflow: hidden;
@@ -6,18 +23,28 @@ nav{
     width: 100%;
     z-index: 1;
 }
+/* ID Customize */
 
+/* Class Customize */
+.mobileFooter {
+  min-height: calc(100vh - 240px); 
+}
+.desktopFooter {
+  min-height: calc(100vh - 240px); 
+}
 .truncate-overflow {
     --max-lines: 3;
     position: relative;
     max-height: calc(var(--lh) * var(--max-lines));
     overflow: hidden;
     padding-right: 1rem; /* space for ellipsis */
+
     display: -webkit-box;
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
+
   }
   .truncate-overflow::before {
     position: absolute;
@@ -30,3 +57,8 @@ nav{
     inset-inline-end: 0; /* "right" */
     background: white;
   }
+
+.slideImg{
+  transition: 1s;
+}
+

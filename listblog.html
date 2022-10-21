@@ -4,64 +4,63 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>List Blog</title>
+  <title>MentalHack</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="./dir/img/favicon.png">
 
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="src/js/tailwind.config.js"></script>
   <link rel="stylesheet" href="src/css/style.css">
 </head>
 
-<body class="bg-[#2dd4bf]">
+<body class="bg-bgSecondary">
   
-  <nav class="bg-[#01A29D] w-full shadow-xl">
+<nav class="bg-bgPrimary w-full shadow-xl">
     <div class="container mx-auto">
         <div class="py-[1rem] block sm:flex sm:flex-wrap text-[#fafafa] items-center font-semibold">
-            <a class="flex justify-center sm:justify-start items-center" href="listblog.html">
+            <a class="flex justify-center sm:justify-start items-center" href="./index.html">
                 <img src="./dir/img/MentalHack.png" alt="MentalHackLogo">
             </a>                
             <div class="sm:mx-8 flex flex-nowrap justify-around items-center py-1 px-2 text-[12px] sm:text-[16px] sm:shadow-none shadow-lg w-full sm:w-auto">
-                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#">
+                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="./index.html">
                     Beranda
                 </a>
-                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#newsblog">
-                    News Blog
-                </a>
-                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="#">
+                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="./listblog.html">
                     Blogs
+                </a>
+                <a class="mx-2 mt-4 sm:mt-0 sm:mr-6 hover:font-bold" href="./index.html#about">
+                    Our Team
                 </a>
             </div>
         </div>
     </div>
-  </nav>
+</nav>
 
-  <div class="flex justify-end">
-    <div class="mt-3 pr-2 xl:w-64 ">
+<section class="mt-12 px-12 desktopFooter">
+  <header class="w-full mx-auto flex flex-wrap justify-center">
+      <h1 class="font-bold text-4xl text-center text-textPrimary">LIST BLOG</h1>
+  </header>
+  <search class="mt-12 flex justify-center w-full">
+    <div>
       <div class="input-group relative flex flex-wrap items-stretch w-full mb-4">
-        <form action="search.html" method="GET" class="d-flex" name="search">
-          <input class="form-control form-control relative flex-auto min-w-0 block w-full px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none" type="search" placeholder="Search" name="search" aria-label="Search">
+        <form action="search.html" method="GET" class="flex" name="search">
+          <input class="form-control form-control relative flex-auto min-w-0 block w-[250px] sm:w-[600px] lg:w-[800px] px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding border border-solid border-textPrimary rounded transition ease-in-out m-0 focus:text-textPrimary focus:bg-white focus:border-blue-600 focus:outline-none" type="search" placeholder="Search" name="search" aria-label="Search">
         </form>
       </div>
     </div>
+  </search>
+  <main class="container mx-auto w-full mt-8 lg:mt-16">
+      <div id="list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 pt-6 gap-8 content-center"></div>
+  </main>
+</section>
+
+<footer class="mt-24 bg-textPrimary w-full py-2 shadow-lg">
+  <div class="flex flex-warp justify-center items-center text-textWhite text-[12px]">
+      <h6>Tech4Impact x Kampus Merdeka Batch 3 : <span class="sm:inline block font-semibold text-center sm:text-left">Front-End Web Developer 15</span></h6>
   </div>
+</footer>
 
-  <section class="px-12 py-12 bg-white">
-    <header class="w-full mx-auto flex flex-wrap justify-center">
-        <h1 class="font-bold text-4xl text-center text-base">LIST BLOG</h1>
-    </header>
-  </section>
-  
-  <div class="container mx-auto font-sans grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 pt-6 gap-8" id="main">
-
-  </div>
-
-  <div class="footer text-center mt-[1rem] pt-[1rem]">
-    <footer class="mt-12 bg-textPrimary w-full py-2 shadow-lg">
-      <div class="flex flex-warp justify-center items-center text-textWhite text-[12px]">
-          <h6>Tech4Impact x Kampus Merdeka Batch 3 : <span class="sm:inline block font-semibold text-center sm:text-left">Front-End Web Developer 15</span></h6>
-      </div>
-    </footer>
-  </div>
-
-    <script src="src/js/script.js"></script>
+    <script src="src/js/listScript.js"></script>
 </body>
 </html>

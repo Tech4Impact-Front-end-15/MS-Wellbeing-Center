@@ -26,8 +26,8 @@ nav{
 /* ID Customize */
 
 /* Class Customize */
-.mobileFooter {
-  min-height: calc(100vh - 240px); 
+.blogFooter{
+  min-height: calc(100vh - 190px); 
 }
 .desktopFooter {
   min-height: calc(100vh - 240px); 

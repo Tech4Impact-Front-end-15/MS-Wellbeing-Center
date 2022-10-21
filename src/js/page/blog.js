@@ -30,15 +30,15 @@ let getDataDummy = async () => {
     dummyContainer.innerHTML += `
       <div
         class="font-serif px-5 pt-5 text-lg sm:text-4xl font-bold text-textPrimary text-center"
-      >${dummy[8].tittle}
+      >${dummy[0].tittle}
       </div>
       <div>
         <div class="font-serif px-5 font-semibold text-sm text-[#71717a] text-center mt-2">
-          ${dummy[8].releaseDate}
+          ${dummy[0].releaseDate}
         </div>
-        <div class="font-serif px-5 italic text-center">Author by : ${dummy[8].author}</div>
+        <div class="font-serif px-5 italic text-center">Author by : ${dummy[0].author}</div>
         <div class="flex flex-wrap justify-center w-full">
-        <img src="${dummy[8].img}" alt="" srcset=""/>
+        <img src="${dummy[0].img}" alt="" srcset=""/>
         </div>
         
       </div>
@@ -47,17 +47,15 @@ let getDataDummy = async () => {
 
   for (let i = 0; i < dummy[0].subtittle.length; i++) {
     contentContainer.innerHTML += `
-    <div class="font-serif px-5 pt-5 text-xl font-bold text-textPrimary">${dummy[8].subtittle[i]}
+    <div class="font-serif px-5 pt-5 text-xl font-bold text-textPrimary">${dummy[0].subtittle[i]}
           </div>
           <div class="font-serif px-5 text-justify">
         <p class="pt-5 indent-8">
-          ${dummy[8].descContent[i]}
+          ${dummy[0].descContent[i]}
         </p>
     </div>`;
   }
 
-
-  
 }
 
 getDataDummy();

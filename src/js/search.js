@@ -1,7 +1,7 @@
 // API DUMMY
 const API_URL = 'https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing'
 
-let keySearch = document.getElementById("main")
+let keySearch = document.getElementById("list")
 
 let getDataBlog = async () => {
     let search = new URL (document.location).searchParams
@@ -13,17 +13,19 @@ let getDataBlog = async () => {
     searching.forEach(item => {
         keySearch.innerHTML += 
         `
-        <div class="py-4 px-6 bg-[#f1f5f9] rounded-lg shadow-xl outline-[#000] outline outline-offset-2 opacity-[95%]">
-        <div class="flex-wrap items-center">
-          <img class="w-full rounded-lg" src="${item.img}" alt="MSWC">
-            <h1 class="font-bold truncate pt-[2rem]">${item.tittle}</h1>
-            <h3 class="font-semibold">${item.author} - <span class="font-normal">${item.releaseDate}</span></h3>
-            <p class="mt-2 font-normal truncate-overflow text-left sm:text-justify w-full">${item.descContent}</p>
-            <div class="flex justify-end pt-[2rem]">
-              <a href="${item.link}" class="mt-4 sm:mt-0 sm:mr-6 hover:font-semibold text-blue-800">Read more</a>
+        <div class="p-4 bg-textWhite rounded-lg shadow-xl outline-textPrimary outline outline-offset-2 opacity-[95%]">
+            <div class="flex flex-wrap items-center">
+                <img src="${item.img}" alt="dummyBg" class="w-full rounded-t-lg h-full sm:h-[200px] lg:h-[300px]">
+                <h3 class="font-semibold text-2xl mt-4 text-center lg:text-left w-full truncate">${item.tittle}<span class="lg:text-left block font-semibold text-[12px] text-center lg:text-left">${item.author}<span class="font-normal"> | ${item.releaseDate}</span></span></h3>
+                <p class="mt-2 truncate-overflow text-left sm:text-justify w-full">
+                ${item.descContent[0]}
+                </p>
+                <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-textWhite lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
+                    <a href="${item.link}" target="_blank" class="font-semibold text-textWhite lg:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
+                </div>
             </div>
         </div>
-      </div>
+        
       `
     })
 }

@@ -5,6 +5,9 @@
 
 body{
     font-family: "Poppins", sans-serif;
+    margin:0;
+    padding:0;
+    height:100%;
 }
 html{
     scroll-behavior: smooth;
@@ -20,11 +23,15 @@ nav{
     width: 100%;
     z-index: 1;
 }
-
 /* ID Customize */
 
 /* Class Customize */
-
+.mobileFooter {
+  min-height: calc(100vh - 240px); 
+}
+.desktopFooter {
+  min-height: calc(100vh - 240px); 
+}
 .truncate-overflow {
     --max-lines: 3;
     position: relative;

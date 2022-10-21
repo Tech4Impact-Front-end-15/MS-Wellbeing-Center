@@ -1,10 +1,3 @@
-// Dark Mode Function
-if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-    document.documentElement.classList.add('dark');
-} else {
-    document.documentElement.classList.remove('dark')
-}
-
 // News Blog Function
 async function getBlog(){
 
@@ -28,7 +21,7 @@ async function getBlog(){
                     ${result[i].descContent[0]}
                     </p>
                     <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-bgSekunder lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
-                        <a href="page/${result[i].link}" target="_blank" class="font-semibold text-textWhite lg:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
+                        <a href="${result[i].link}" target="_blank" class="font-semibold text-textWhite lg:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
                     </div>
                 </div>
             </div>
@@ -36,45 +29,3 @@ async function getBlog(){
     };
 };
 getBlog()
-
-// Carousel Function
-let currentSlideID = 0;
-
-
-let sliderElement = document.getElementById('slider');
-let totalSlide = sliderElement.childElementCount;
-console.log(totalSlide)
-
-document.getElementById("next").addEventListener("click", next)
-function next(){
-    if(currentSlideID < totalSlide-1){
-        currentSlideID++;
-        showSlide()
-    } else {
-        currentSlideID = 0;
-        showSlide()
-    }
-}
-
-document.getElementById("prev").addEventListener("click", prev)
-function prev(){
-    if(currentSlideID > 0){
-        currentSlideID--;
-        showSlide()
-    } else {
-        currentSlideID = totalSlide-1;
-        showSlide()
-    }
-}
-
-function showSlide(){
-    let slide = document.getElementById('slider').getElementsByTagName('li')
-    for (let i = 0; i < totalSlide; i+1){
-        const n = slide[i];
-        if(currentSlideID===i++){
-            n.classList.remove('hidden')
-        }else{
-            n.classList.add('hidden')
-        }
-    }
-}

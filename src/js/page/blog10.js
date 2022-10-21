@@ -1,63 +1,28 @@
-tailwind.config = {
-  darkMode: "class",
-  theme: {
-    colors: {
-      textPrimary: "#006969",
-      textSecondary: "#008783",
-      textBlack: "#131313",
-      textWhite: "#E6E6E6",
-      bgPrimary: "#01A29D",
-      bgSekunder: "#DADADA",
-    },
-  },
-};
+async function getBlog(){
 
-//API
-let API_URL = "https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing";
+    let url = "https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing"
+    let response = await fetch (url)
+    let result = await response.json()
 
-let dummyContainer = document.getElementById("main");
-let contentContainer = document.getElementById("content");
+    const headerBlog = document.querySelector("#header")
+    const mainBlog = document.querySelector("#main")
 
-let getDataDummy = async () => {
-  let response = await fetch(
-    "https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing"
-  );
-
-  let dummy = await response.json();
-  console.log(dummy);
-
-  for (let y = 0; y < 1; y++) {
-    dummyContainer.innerHTML += `
-      <div
-        class="font-serif px-5 pt-5 text-lg sm:text-4xl font-bold text-textPrimary text-center"
-      >${dummy[9].tittle}
-      </div>
-      <div>
-        <div class="font-serif px-5 font-semibold text-sm text-[#71717a] text-center mt-2">
-          ${dummy[9].releaseDate}
+    headerBlog.innerHTML += `
+        <div class="text-center mt-12">
+            <h1 class="text-2xl lg:text-4xl text-textPrimary font-bold">${result[9].tittle}</h1>
+            <h5 class="font-semibold text-sm mt-2">${result[9].author} <span class="font-normal">| ${result[9].releaseDate}</span></h5>
+            <div class="flex justify-center">
+            <img class="mt-8 shadow-lg" src="${result[9].img}" alt="${result[9].tittle}">
+            </div>
         </div>
-        <div class="font-serif px-5 italic text-center">Author by : ${dummy[9].author}</div>
-        <div class="flex flex-wrap justify-center w-full">
-        <img src="${dummy[9].img}" alt="" srcset=""/>
-        </div>
-        
-      </div>
-    `;
-  }
-
-  for (let i = 0; i < dummy[9].subtittle.length; i++) {
-    contentContainer.innerHTML += `
-    <div class="font-serif px-5 pt-5 text-xl font-bold text-textPrimary">${dummy[9].subtittle[i]}
-          </div>
-          <div class="font-serif px-5 text-justify">
-        <p class="pt-5 indent-8">
-          ${dummy[9].descContent[i]}
-        </p>
-    </div>`;
-  }
-
-
-  
+    `
+    for(let i = 0; i < result[9].subtittle.length; i++ ){
+        mainBlog.innerHTML += `
+            <div class="mt-8">
+                <h3 class="text-xl lg:text-2xl font-semibold text-textSecondary">${result[9].subtittle[i]}</h3>
+                <p class="text-md text-justify lg:text-left lg:text-lg mt-4">${result[9].descContent[i]}</p>
+            </div>
+        `
+    };
 }
-
-getDataDummy();
+getBlog()

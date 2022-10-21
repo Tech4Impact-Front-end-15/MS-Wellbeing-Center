@@ -45,7 +45,7 @@ let getDataDummy = async () => {
     `;
   }
 
-  for (let i = 0; i < dummy[0].subtittle.length; i++) {
+  for (let i = 0; i < dummy[6].subtittle.length; i++) {
     contentContainer.innerHTML += `
     <div class="font-serif px-5 pt-5 text-xl font-bold text-textPrimary">${dummy[5].subtittle[i]}
           </div>

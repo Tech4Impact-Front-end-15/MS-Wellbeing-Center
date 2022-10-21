@@ -18,7 +18,6 @@ let API_URL = "https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing";
 let dummyContainer = document.getElementById("main");
 let contentContainer = document.getElementById("content");
 
-console.log(content2Container);
 let getDataDummy = async () => {
   let response = await fetch(
     "https://634a6eef33bb42dca403ecb0.mockapi.io/blogMSWellbeing"

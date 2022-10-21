@@ -1,0 +1,314 @@
+[
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/02/Kenali-Whatsapp-Anxiety-01.jpg",
+  "tittle": "Pesan WhatsApp Bikin Cemas? Kenali WhatsApp Anxiety dan Cara Mengatasi",
+  "author": "Anggreliani Utami",
+  "releaseDate": "12 Feb 2022",
+  "descContent": [
+   "Semakin terbatasnya kegiatan di luar rumah berarti semakin banyak orang yang menggunakan aplikasi chatting. Pesan teks yang bersifat kasual dan cepat membuatnya lebih digemari daripada email. Pada akhir Maret 2020, misalnya, WhatsApp telah melaporkan lonjakan pengguna sebanyak 40%. Berkat kehadiran teknologi digital seperti Zoom, Slack, dan WhatsApp, kita bisa merasakan suasana pandemi yang nggak begitu sepi. Bahkan, pekerjaan yang tadinya harus dilakukan di kantor, kini bisa dilakukan di mana aja. Tapi, kemudahan dan keramaian yang dihadirkan dari aplikasi ngobrol seperti WhatsApp, nyatanya bisa bikin sebagian penggunanya merasa stres dan cemas, lho.",
+   "Menurut Elias Aboujaoude, seorang psikiater di Stanford University, salah satu alasan WhatsApp dapat menimbulkan stres adalah karena adanya anggapan bahwa membaca pesan berarti membalasnya saat itu juga. Bersamaan dengan ini, rasa bersalah akan muncul ketika kita telat membalas pesan. Rasanya seperti kita telah melanggar peraturan nggak tertulis dalam berkomunikasi secara online. Padahal, cepat atau lambatnya membalas sebuah pesan dibalas itu bebas tergantung keputusan kita.",
+   "Peraturan yang nggak tertulis ini bukan cuma menimbulkan rasa bersalah bagi penerima pesan, tapi juga rasa takut dan cemas bagi pengirimnya. Saat dua centang biru telah terpampang di laman obrolan tanpa balasan, asumsi-asumsi negatif kerap muncul. Kamu mungkin akan menerka-nerka seperti: mengapa pesanku nggak dibalas?, Apakah aku sedang diabaikan? atau apakah aku benar-benar nggak penting sampai pesanku cuma dibaca? Hal ini serupa dengan yang dikatakan oleh Isabella Venour, seorang Mindset & Marketing Coach. Dalam percakapan digital, sering kali reaksi yang diharapkan dari seseorang itu nggak jelas. Apakah kamu sudah memberikan reaksi yang diharapkan atau memberikan emoji yang tepat? Kamu nggak mungkin bisa menebak hal ini karena kamu nggak mendengar nada bicara yang mengirim pesan, atau bahkan melihat ekspresi wajah dan tubuh mereka. Akibatnya, hal ini bisa menimbulkan salah tafsir serta WhatsApp anxiety.",
+   "Grup di WhatsApp memang berguna banget lho, Perseners. Kita jadi bisa ngobrol langsung sama banyak orang di satu laman chat. Tapi, ada saatnya jumlah pesan yang masuk itu banyaknya nggak kira-kira. Setiap anggota kejar-kejaran untuk membalas pesan yang ada. Saat HP-mu ditinggal sebentar, tau-tau udah ada ratusan notifikasi dari grup kerja, temen SD, geng SMA, atau keluarga yang belum terbaca. Perasaan tertinggal seketika menyelinap di hati kamu. Satu sisi kamu nggak enak untuk mengabaikan, tapi di sisi lain kamu bingung harus mulai balas dari mana. Akhirnya, perasaan kamu jadi campur aduk dan jadi lelah pikiran sendiri karena ini. Dan ini secara nggak langsung bisa menimbulkan WhatsApp anxiety.",
+   "Kerja di rumah atau work from home atau WFH membuat waktu kerja beberapa perusahaan jadi lebih fleksibel. Enaknya, kamu nggak perlu nunggu pukul 12 siang untuk istirahat. Tapi, nggak enaknya waktu ngomongin pekerjaan jadi nggak ada batasan. Nah, bunyi notifikasi pesan masuk yang dulunya adalah hal yang nggak terlalu diperhatikan, sekarang bisa menjadi sumber ketakutan seseorang dengan WhatsApp anxiety. Misalnya, saat ada notif WhatsApp kamu jadi cemas dan ketakutan sendiri. Kamu pikir itu chat dari bos kamu yang menanyakan progress pekerjaan. Padahal, bisa aja itu pesan dari temanmu atau keluarga, tapi pikiranmu malah udah berkelana ke mana-mana duluan.",
+   "Saat rasa cemas akan notifikasi WhatsApp yang nggak ada habisnya, ada beberapa cara mengatasi WhatsApp anxiety:",
+   "Coba hitung berapa banyak grup di WhatsApp kamu? Pasti nggak sedikit kan? WAG atau WhatsApp Group mungkin adalah fitur terbaik WhatsApp. Berkat adanya grup, komunikasi kita dengan banyak orang jadi gampang. Tapi nggak cuma itu, WAG juga bikin pesan yang masuk jadi lebih banyak. Bahkan, nggak sedikit orang yang suka kirim pesan atau thread nggak penting. Kalau udah gini, mematikan notifikasi di waktu-waktu tertentu adalah pilihan yang tepat. Metode ini bisa bantu untuk mengatasi WhatsApp anxiety karena overwhelmed dengan banyaknya notifikasi yang masuk. Kamu nggak perlu meninggalkan grup itu, cukup mute notifikasinya di waktu-waktu tertentu. Misalnya, saat kamu akan tidur di malam hari, waktu istirahat kerja di siang hari, atau mungkin disaat hari libur kerja. Demikian, ini nggak cuman bikin HP kamu jadi lebih tenang, tapi juga bantu kamu untuk nggak terus-terusan fokus membalas pesan di WhatsApp.",
+   "Asumsi kalau kamu punya waktu untuk membaca pesan ini, berarti kamu juga punya waktu untuk membalasnya, Itu sangat salah. Ingat bahwa kamu nggak bisa mengontrol orang lain, dan sebaliknya orang lain nggak bisa mengontrol kamu. Baca pesan WhatsApp emang cuma butuh waktu beberapa detik atau menit,  tapi membalasnya kadang membutuhkan waktu yang nggak sebentar, apalagi kalau urusan pekerjaan. Banyak alasan bagi tiap-tiap orang untuk nggak langsung membalas pesan. Jadi, kamu jangan merasa terbebani atau cemas saat pesanmu baru dibaca. Saat dibombardir dengan pesan oleh teman atau rekan kerja, kamu bisa coba jelaskan dulu alasan kenapa kamu nggak bisa langsung membalas. Karena bisa aja kamu memang lagi ada urusan, masih berpikir, atau sedang beristirahat.",
+   "Temanmu nggak merespon meskipun kamu melihat bahwa dia sedang online beberapa detik yang lalu? Atau temanmu online tapi tetap nggak membaca pesan kamu? Situasi ini membuat kamu mungkin jadi berburuk sangka. Padahal bisa aja temanmu itu nggak sengaja mengabaikan pesanmu. Mungkin dia lagi nyetir, sedang berbicara dengan orang, atau alasan-alasan lainnya. Cukup pahami bahwa pasti ada alasan kenapa temanmu nggak kunjung membaca atau membalas pesanmu. Namun, apabila situasi kayak gini sering dialami, tentu ini bisa melelahkan banget. Jadi, mari coba menghindarinya dengan mematikan fitur ‘Last Seen’ di WhatsApp kamu. Tapi, jika pesanmu benar-benar penting dan butuh jawaban saat itu juga, akan lebih baik kamu menelepon dibanding hanya mengirim pesan, ya."
+  ],
+  "link": "blog1.html",
+  "subtittle": [
+   "Alasan Pesan WhatsApp Bikin Cemas, Kok Bisa?",
+   "1. Anggapan bahwa membaca berarti membalas saat itu juga",
+   "2. Ketidakmampuan melihat reaksi penerima",
+   "3. Terlalu banyak pesan yang diterima",
+   "4. Notifikasi soal pekerjaan yang nggak ada habisnya",
+   "Cara Mengatasi WhatsApp Anxiety",
+   "1. Mematikan notifikasi di waktu tertentu",
+   "2. Memahami bahwa membalas pesan juga butuh waktu",
+   "3. Selalu ada alasan di balik pesan yang diabaikan"
+  ],
+  "id": "1"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/02/Request-Thumbnail-Blog-Emotional-Numbness-01.jpg",
+  "tittle": "Emotional Numbness, Saat Seseorang Merasa Hampa dan Mati Rasa",
+  "author": "Afifah Iftah Nurul Isnaini",
+  "releaseDate": "23 Feb 2022",
+  "descContent": [
+   "Menurut psikolog Mayra Mendez, emotional numbness adalah kondisi di mana seseorang merasa hampa dan kesulitan dalam mengungkapkan emosi yang dirasakannya. Kondisi ini bisa disebabkan oleh stres berat atau kecemasan berlebihan. Dalam kondisi ini, penderita bisa kehilangan minat pada hal-hal yang disukainya. Kondisi ini juga sering dikaitkan dengan mekanisme pertahanan diri (coping mechanism). Ketika mengalami emotional numbness ini, seseorang bisa meminimalisir perasaan sakit dan kecewa yang cukup parah. Fenomena ini banyak ditemukan pada orang-orang yang berada di lingkungan  bertingkat stres tinggi atau pernah mengalami pengalaman traumatis. Dengan menerapkan coping mechanism tersebut, ini memungkinkan mereka untuk merasa lebih lega dan aman. Tapi apabila dilakukan dalam jangka waktu tertentu, kebiasaan coping ini bisa menghalangi diri sendiri untuk mengenali emosi positif maupun negatif. Selain itu, ada beberapa hal lain yang bisa menjadi faktor penyebab emotional numbness.",
+   "",
+   "Ada kemungkinan besar seseorang yang memiliki diagnosa gangguan kecemasan dapat mengalami mati rasa secara emosional. Bisa jadi ini merupakan respon terhadap tingkat stres yang tinggi, perasaan takut, dan kekhawatiran yang berlebihan. Alhasil, tingkat kecemasan yang tinggi bisa mendorong seseorang untuk menghindari emosi-emosi positif maupun negatif.",
+   "Dalam sebuah penelitian tahun 2017, antidepresan terbukti dapat menyebabkan mati rasa secara emosional. 46% peserta paling sering mengalami efek samping berupa emotional numbness akibat pengobatan yang menggunakan antidepresan atau yang disebut selective norepinephrine reuptake inhibitors (SNRIs).",
+   "Menurut Mendez, ketika mengalami episode depresi, penderita kemungkinan kurang mampu menyesuaikan diri dengan perasaan mereka (disregulasi emosi). Keadaan ini membuat penderita kesulitan untuk mengekspresikan emosi yang dirasakan. Akibatnya, penderita juga akan mengalami mati rasa secara emosional.",
+   "Tingkat stres yang tinggi bisa menjadi penyebab emotional numbness selanjutnya. Pasalnya, stres berlebih dapat memicu munculnya hormon stres yang tak terkendalikan di otak. Hormon stres bisa membanjiri sistem limbik, di mana sistem tubuh ini mengatur emosi seseorang. Ditambah sistem limbik yang dipenuhi oleh hormon stres dapat memengaruhi suasana hati. Secara fisik, seseorang yang mengalami stres berat akan merasa sangat kelelahan, baik secara fisik maupun emosional. Dengan begitu, seseorang dapat mengalami mati rasa secara emosional.",
+   "Emotional numbness berpotensi dialami oleh penderita PTSD. Mati rasa secara emosional ini seolah menjadi cara untuk melupakan trauma sekaligus menghindari pikiran atau perasaan yang berhubungan dengan peristiwa traumatis. Selain mengurangi kemampuan mengenali emosi, emotional numbness juga membuat penderitanya sulit tertarik pada aktivitas fisik atau sosial seperti sebelumnya.",
+   "Mati rasa secara emosional tentu saja ditandai dengan kesulitan mengenali emosi yang dirasakan. Bahkan, untuk perasaan bahagia pun, penderita sulit merasakannya. Akibatnya, mereka tidak merasa bahagia ketika melakukan aktivitas-aktivitas yang sebelumnya mereka sukai. Mereka jadi lebih suka menyendiri daripada berkumpul bersama orang lain. Dilansir dari Healthline, pengalaman emotional numbness ini dapat membuat mereka merasa terisolasi dari orang lain. Perasaan terisolasi ini menimbulkan perasaan hampa, putus asa, dan seakan tidak punya masa depan. Menurut Amy H, penyintas emotional numbness, ia seolah terputus dari lingkungannya. Ia merasa tidak bisa terhubung dengan keluarganya, meski berada dalam ruang yang sama. Menyadari hal itu, ia pun tidak bisa menjelaskan apa yang dirasakan saat itu. Terlepas dari itu semua, emotional numbness adalah kondisi yang bisa diatasi jika segera melakukan perawatan. Emotional numbness bukan sebuah gangguan psikologis yang menetap atau permanen. Jadi,penderita dapat sembuh seperti semula dengan perawatan yang tepat.",
+   "",
+   "Berbagi perasaan dengan orang-orang terdekat bisa sedikit mengurangi beban. Meski akan sulit untuk membuka perasaan pribadi, tapi adanya dukungan dari keluarga atau teman bisa sangat bermanfaat. Kehadiran orang-orang terdekat juga bisa membuat penderita merasa lebih aman. Sedikit demi sedikit, coba belajar untuk mengekspresikan emosi dalam mengatasi masalah ini.",
+   "Mungkin sudah umum diketahui bahwa olahraga atau aktivitas fisik bisa mengurangi stres dan kecemasan. Karena salah satu faktor penyebab emotional numbness adalah stres, maka menjalani olahraga bisa menjadi solusi lainnya. Olahraga yang tepat bisa membuat tubuh memproduksi hormon endorfin (hormon yang memicu perasaan positif). Khususnya, olahraga lari, berenang, yoga, atau kickboxing dikenal ampuh untuk menghilangkan stres. Tapi, sekadar jalan-jalan ringan di pagi hari juga bisa menghilangkan stres.",
+   "Istirahat cukup yang berkualitas juga nggak kalah penting untuk menjaga kesehatan fisik dan mental. Meski sering sibuk, usahakan untuk menyisihkan waktu istirahat yang berkualitas, ya. Menurut penelitian, 7 jam adalah jangka waktu tidur yang disarankan untuk orang dewasa.",
+   "Perlu diingat, bahwa stres adalah salah satu faktor yang memungkinkn seseorang mengalami emotional numbness. Untuk itu, penting untuk belajar pengelolaan stres yang baik dan benar. Meski tidak mungkin menghindari stres setiap harinya, dengan pengelolaan yang baik stres yang dirasakan tidak sampai mengganggu kesehatan mental.",
+   "Psikolog bisa membantu mengatasi trauma atau gangguan mental lain yang menyebabkan emotional numbness. Ditambah seorang psikolog profesional bakal melakukan konseling untuk mengetahui akar masalah dan melakukan terapi demi menemukan solusi masalah yang terbaik. Salah satu terapi yang banyak dilakukan salah satunya adalah CBT (Cognitive Behavior Therapy). Terapi CBT mendorong penderita untuk mengekspresikan, belajar memahami emosi, serta mencari sumber dari respon emosional tersebut. Psikolog akan membantu membahas bagaimana pikiran tertentu berkontribusi dalam munculnya emosi. CBT membantu mengelola perasaan lemah, tidak berdaya, dan perasaan negatif lainnya dengan pengelolaan pikiran dan emosi yang positif."
+  ],
+  "link": "blog2.html",
+  "subtittle": [
+   "Apa Itu Emotional Numbness?",
+   "Penyebab Emotional Numbness",
+   "1. Gangguan kecemasan",
+   "2. Obat-obatan",
+   "3. Depresi",
+   "4. Stres berat",
+   "5. Post-Traumatic Stress Disorder (PTSD)",
+   "Gejala Dari Emotional Numbness",
+   "Cara Merawat Emotional Numbness",
+   "1. Support System",
+   "2. Melakukan aktivitas fisik",
+   "3. Istirahat cukup",
+   "4. Hindari stres berlebihan",
+   "5. Melakukan terapi bersama psikolog"
+  ],
+  "id": "2"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/02/Request-Thumbnail-Blog-JOMO-01.jpg",
+  "tittle": "Ubah FOMO Menjadi JOMO: Merasa Bahagia Walau Ketinggalan Zaman",
+  "author": "Audra Levana Adelia",
+  "releaseDate": "28 Feb 2022",
+  "descContent": [
+   "Joy of Missing Out atau JOMO adalah kondisi di mana seseorang merasakan kesenangan yang diperoleh dari hidup dengan tenang tanpa merasa cemas akan melewatkan informasi penting atau kejadian menarik yang mungkin terjadi di tempat lain. Secara singkat, JOMO adalah saat dimana kamu merasa bahagia tanpa takut ketinggalan segala sesuatu yang terjadi. Kalau FOMO buat kamu jadi gampang cemas dan takut kehilangan momen penting, JOMO mengajak kamu untuk melupakan semua itu. Memikirkan sesuatu yang terjadi di luar sana bukanlah sesuatu yang harus kamu cemaskan sampai berlarut-larut dan gak wajib kamu pikirkan terus-menerus. Bagi JOMO, overthinking tentang hal-hal yang di luar kendali kita itu gak berguna dan cuman bikin kamu jadi makin stres dan gak bahagia. Orang-orang yang menerapkan JOMO bukan berarti mereka benar-benar menghilang dan gak peduli dengan lingkungan sekitarnya, apalagi sampai gak bersosialisasi. Namun, mereka memiliki batasan-batasan tertentu agar mereka bisa tetap enjoy the life sesuai dengan keinginan mereka.",
+   "",
+   "Daripada kamu menghabiskan waktu untuk mencemaskan hal-hal lain yang mungkin gak terlalu penting dalam kehidupan kamu, lebih baik enjoy setiap detik dari kehidupan yang kamu jalani sekarang. Dengan menikmati setiap momen dan pengalaman dalam hidup, kamu akan menyadari bahwa sebenarnya FOMO hanya membuang-buang waktu kamu aja. Selain itu, kamu akan jauh lebih bahagia karena bisa menemukan kebermaknaan tiap-tiap hal yang terjadi dalam diri dan hidup kamu.",
+   "Secara umum, social media detox atau detoksifikasi media sosial adalah kegiatan untuk melakukan pengurangan penggunaan sosial media dalam jangka waktu tertentu. Mengurangi penggunaan media sosial akan sangat membantu kamu dalam menerapkan JOMO dalam kehidupan. Biasanya dilakukan dalam jangka waktu 1 bulan atau bisa disesuaikan dengan kebutuhan kamu. Namun, hal ini pasti gak akan mudah dilakukan untuk kamu yang setiap hari selalu membuka media sosial. Kamu bisa mulai dengan mencoba mematikan notifikasi handphone dan memberikan batasan waktu penggunaan media sosial setiap harinya. Misalnya, hanya 1 sampai 2 jam per hari.",
+   "Rasa takut akibat FOMO dapat terjadi karena pikiran dan perhatian kita yang terlalu fokus pada hal-hal yang sebenarnya gak perlu dicemaskan. Maka dari itu, sebaiknya mulai mengalihkan pikiran dan perhatian kita pada hal-hal lainnya. Sebagai langkah pertama, kamu bisa mulai mencari dan mencoba kegiatan baru yang menarik perhatianmu. Bisa jadi kegiatan baru itu cocok dan berujung menjadi hobi baru kamu. Dengan pikiran dan perhatian yang teralihkan dari FOMO, kamu jadi gak punya waktu untuk takut terhadap hal-hal yang gak penting. Dan kamu gak akan takut lagi karena ‘ketinggalan zaman’. Nah itu dia 3 tips yang bisa kamu terapkan untuk mengatasi rasa FOMO kamu, nih!"
+  ],
+  "link": "blog3.html",
+  "subtittle": [
+   "Apa itu JOMO (Joy of Missing Out)?",
+   "Tips Mengubah FOMO Menjadi JOMO",
+   "1. Nikmati hidup kamu saat ini",
+   "2. Social media detox",
+   "3. Mencoba hal-hal baru"
+  ],
+  "id": "3"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/03/Request-Thumbnail-Blog-Birthday-Depression-01.jpg",
+  "tittle": "Ulang Tahun Malah Sedih? Mungkin Kamu Mengalami Birthday Depression",
+  "author": "Nadya Anindita",
+  "releaseDate": "1 Mar 2022",
+  "descContent": [
+   "Birthday depression atau depresi di hari  ulang tahun adalah kondisi di mana kamu merasa tidak senang saat berulang tahun. Biasanya kamu malah akan merasa sedih, cemas, dan kesepian. Meskipun belum ada penelitian khusus mengenai kaitan antara depresi dan ulang tahun, peristiwa dan perubahan tertentu dalam kehidupan dapat menjadi pemicu stres dan depresi. Salah satunya adalah perubahan usia dan tuntutan yang diberikan pada usia itu.",
+   "Birthday depression dapat terjadi karena beberapa hal. Salah satunya adalah ekspektasi. Mengenai bagaimana seharusnya ulang tahun dirayakan dan juga apa yang seharusnya sudah dicapai ketika memasuki usia tertentu. Ada beberapa kebiasaan yang kerap dilakukan oleh lingkungan sosial sekitar terkait ulang tahun. Misalnya, menikmati perayaan ulang tahun yang meriah dengan banyak tamu undangan, mendapatkan kejutan dan hadiah ulang tahun, ataupun  menerima banyak tag foto dan ucapan di media sosial. Hal itu membuatmu berharap dan menuntut untuk melakukan hal yang sama ketika ulang tahun. Ketika hal yang terjadi tidak sesuai dengan kebiasaan di sekitar, kamu bisa merasa takut terhadap penolakan dari lingkungan sosial. Hal ini bisa memunculkan  perasaan sedih, kecewa, kesepian, dan kurang berharga. Selain itu, ekspektasi dan tuntutan mengenai apa yang seharusnya sudah dilakukan atau didapatkan pada usia tertentu juga memicu stres dan depresi saat ulang tahun. Seperti tuntutan memiliki pekerjaan ataupun pasangan. Perasaan cemas dan insecure yang muncul karena merasa belum mencapai apa yang diharapkan pada usia tersebut, akhirnya membuatmu tidak ingin merayakan ulang tahun.",
+   "Ada beberapa hal yang mungkin kamu rasakan ketika mengalami depresi saat ulang tahun di mana beberapa diantaranya  seperti gejala depresi secara umum diantara lainnya yaitu merasa sedih dan tidak bersemangat menjelang hari ulang tahun, merasa cemas menjelang hari ulang tahun, kehilangan selera makan dan kesenangan melakukan hal-hal yang dinikmati sebelumnya, insomnia, merasa sakit dan nyeri pada tubuh, kesulitan berkonsentrasi karena terlalu sibuk memikirkan hari bertambahnya usia, overthinking mengenai pencapaian yang telah kamu dapatkan di usiamu saat ini, menarik diri dari lingkungan sosial termasuk keluarga dan teman, menghindari pembahasan mengenai ulang tahun, dan kehilangan kepercayaan diri atau memiliki self-esteem rendah",
+   "",
+   "Cobalah untuk bersikap realistis terhadap harapanmu dalam merayakan ulang tahun dan terhadap pencapaian hidupmu. Tidak perlu membandingkan prosesmu dengan proses orang lain Perseners. Setiap orang memiliki waktunya masing-masing.",
+   "Kita memang tidak dapat memaksakan orang lain untuk merayakan ulang tahun sesuai keinginan kita. Namun jika itu memang mengganggumu, kamu berhak kok untuk mengatakannya pada mereka apa yang kamu harapkan. Ucapkan secara asertif menggunakan teknik “I” message seperti “aku merasa sedih kalau ulang tahun tanpa kehadiaran kalian”",
+   "Jika Perseners mengalami tanda-tanda dari birthday depression semakin mengganggu keseharianmu, segera konsultasikan pada psikolog profesional yang ada."
+  ],
+  "link": "blog4.html",
+  "subtittle": [
+   "Apa Itu Birthday Depression?",
+   "Mengapa Bisa Mengalami Birthday Depression?",
+   "Tanda-Tanda Birthday Depression",
+   "Tips Menghadapi Birthday Depression",
+   "1. Mengontrol ekspektasi",
+   "2. Menyampaikan apa yang kamu rasakan",
+   "3. Konseling"
+  ],
+  "id": "4"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/03/Request-Thumbnail-Blog-Menghargai-Diri-01.jpg",
+  "tittle": "Buat Lo yang Suka Nyalahin Diri Sendiri (Cara Menghargai Diri Sendiri)",
+  "author": "Dimas Yoga Maha Putra",
+  "releaseDate": "1 Mar 2022",
+  "descContent": [
+   "Apa sebenarnya victim mentality? Victim mentality bukanlah kondisi yang dapat didiagnosis. Victim mentality adalah istilah yang diterima secara umum dan memiliki beberapa nama lain seperti victim syndrome dan victim complex. Bagi orang-orang yang memiliki victim mentality, sepertinya tenggelam dalam negativitas lebih mudah daripada mencoba menyelamatkan diri sendiri. Mereka bahkan dapat memaksakan pola pikir ini ke orang lain. Intinya, pola pikir ini berakar pada trauma, kesusahan, dan rasa sakit hampir sepanjang waktu. Biasanya hal ini terjadi ketika lo mengalami situasi traumatis yang biasanya berasal dari orang lain. Akhirnya, mungkin lo jadi berpikir bahwa lo gak berdaya dan gak ada yang lo dapat lakukan buat mengubah masa depan lo. Pola pikir ini membuat lo merasa rentan dan takut. Dan pada akhirnya, lo memilih untuk tidak bertanggung jawab atas tindakan yang telah lo perbuat.",
+   "Gue tau kalo mungkin pola pikir ini jadi lo miliki karena sebelumnya lo pernah mengalami kejadian traumatis. Tapi, perlu diinget juga kalo sebenernya satu kejadian buruk itu gak cuma diakibatkan sama satu faktor aja. Emang sih, lo gak bisa mengendalikan apa yang udah terjadi di masa lalu. Dan mungkin hal ini bikin lo jadi merasa buruk dan kehilangan rasa percaya diri lo. Tapi, perlu diinget kalau sebenernya lo masih punya kendali penuh atas masa depan lo. Dan lo bisa mengubah masa depan lo tersebut jadi lebih baik kalau lo memang mau. Setiap orang dengan pola pikir ini perlu menemukan akhir dari mengasihani diri sendiri dan bekerja menuju perubahan. Jika tidak, perasaan lo sebagai korban akan mengikuti lo selama sisa hidup lo. Yang perlu lo inget, sebenernya hidup gak akan pernah berhenti memberi lo tantangan. Kalau lo gak berusaha buat menaklukkan tantangan hidup, maka lo justru bakal berhadapan sama hal yang lebih berat lagi sepanjang hidup lo.",
+   "Apa saja ciri-ciri victim mentality? Jika lo gak yakin apakah lo sedang berjuang dengan victim mentality, berikut adalah 4 ciri yang harus diperhatikan:",
+   "Menciptakan masalah adalah ketika lo membiarkan diri lo percaya bahwa ketidaknyamanan terkecil sekalipun adalah akhir dari segalanya. Jika lo selalu berasumsi bahwa yang terburuk akan terjadi, maka semesta akan mendengarkan dan memberikan apa yang lo minta. Lain kali, ketika lo mendapati diri lo sedang memikirkan betapa buruknya sesuatu, berusahalah untuk tidak memikirkannya dan berpikirlah bahwa hal tersebut tidak akan terjadi. Mikirin hal buruk yang bisa terjadi itu sebenernya boleh aja. Dengan harapan kalau hal itu bikin lo jadi lebih siap ketika lo berhadapan sama hal buruk. Tapi, mungkin yang perlu lo inget adalah hidup itu gak selamanya buruk. Dan hal yang lo takutkan gak pasti 100% bakal terjadi.",
+   "Salah satu hal tersulit yang harus dihadapi ketika lo hidup dengan victim mentality adalah lo merasa gak berdaya. Ketika hal-hal buruk terjadi, mudah untuk merasa seperti lo gak memiliki kendali atas situasi tersebut. Ketika lo menemukan diri lo dalam salah satu situasi ini, fokuslah pada hal-hal yang dapat lo ubah. Menemukan sesuatu yang dapat lo kendalikan dapat membantu lo merasa memiliki sebagian kekuatan lo kembali, dan itu adalah suatu langkah besar. Cara lain untuk membebaskan diri dari perasaan gak berdaya adalah dengan berlatih mengatakan tidak. Lo gak harus melakukan semua yang diharapkan dari diri lo. Gak apa-apa untuk mendahulukan kebutuhan lo sendiri dibandingan kebutuhan orang lain.",
+   "Keraguan terhadap diri sendiri terkait erat dengan menjadi victim mentality. Begitu seseorang jatuh pada victim mentality, secara gak sadar mereka akan memengaruhi diri sendiri dengan upaya terbaik mereka agar sesuai dengan kemauan mereka. Jika lo percaya bahwa lo gk layak, lo akan selalu merasa seolah-olah dunia sedang berusaha untuk menjatuhkan lo. Keyakinan ini akan membuat perilaku korban sampai pada titik di mana merendahkan diri menjadi hal yang wajar. Akan sulit untuk tetap termotivasi dalam hidup saat lo selalu merendahkan diri sendiri.",
+   "Saat lo merasa dunia terus berusaha menyakiti lo atau membuat lo sengsara, wajar banget kalau lo mungkin merasa lo adalah seorang korban. Dalam hidup, banyak hal akan terjadi di luar kendali lo. Dan tugas lo sebenarnya adalah untuk memutuskan bagaimana lo akan menanggapi peristiwa-peristiwa itu. Ketika lo mulai melihat tantangan sebagai peluang untuk berkembang di situlah titik awal yang bisa membantu lo keluar dari victim mentality.",
+   "Jika lo merasa punya beberapa tanda atau gejala victim mentality, lo mungkin bertanya-tanya bagaimana cara mengubah pola pikir lo jadi lebih sehat. Jika demikian, di bawah ini adalah beberapa tips untuk membantu lo. Pilih untuk meninggalkan atau menerimanya. Bicaralah untuk mengubah situasi dan merebut kembali kekuatan lo. Baca buku self-help seperti Eckhart Tolle “The Power of Now”. Belajarlah memaafkan masa lalu. Temukan bantuan dari terapis yang dapat membantu lo memproses trauma masa lalu. Kembangkan kecerdasan emosional lo. Bertanggung jawab atas apa yang dapat lo kendalikan dan bagaimana lo bereaksi. Belajar mulai mengendalikan hal kecil di sekitar lo.",
+   "Jika lo berjuang dengan victim mentality, sebenernya semua hal itu terjadi karena banyak faktor, jadi when things go wrong sebenernya itu bukan salah lo sepenuhnya juga. Kalau sebelumnya lo pernah mengalami kejadian yang gak mengenakkan, wajar banget kalau hal itu bikin lo jadi merasa ragu sama kemampuan diri lo sendiri. Pada saat yang sama, lo perlu menunjukkan belas kasihan pada diri sendiri sehingga lo dapat melewati situasi ini dan mencari bantuan jika diperlukan. Terus berdiam dalam pola pikir victim mentality membuat lo merasa gak berdaya dan gak dapat memulai perubahan dalam hidup lo. Meskipun mungkin sulit bagi lo untuk keluar dari pikiran buruk lo jika lo mengambil langkah-langkah kecil yang konsisten, pada akhirnya lo akan mencapai tujuan yang lo tuju. Dan, akan lebih mudah bagi orang lain untuk mendukung lo sepanjang jalan ketika lo terbuka untuk menerima saran dari orang lain."
+  ],
+  "link": "blog5.html",
+  "subtittle": [
+   "Apa Itu Victim Mentality?",
+   "Apakah Pola Pikir Ini Permanen?",
+   "Ciri-Ciri Victim Mentality",
+   "1. Membuat semua masalah untuk diri lo sendiri",
+   "2. Lo merasa gak berdaya",
+   "3. Lo terlibat dalam negative self-talk",
+   "4. Berpikir bahwa dunia sedang berusaha menjatuhkan lo",
+   "Bagaimana Cara Berhenti Menyalahkan Diri Sendiri?",
+   "Kesimpulan"
+  ],
+  "id": "5"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/03/Request-Thumbnail-Blog-Cara-Menghadapi-Teman-Depresi-01.jpg",
+  "tittle": "Cara Menghadapi Teman yang Depresi Agar Merasa Lebih Tenang",
+  "author": "Ni Putu Sista Santika",
+  "releaseDate": "3 Mar 2022",
+  "descContent": [
+   "Buat kamu yang belum pernah mengalami depresi sebelumnya, mungkin akan terasa sulit untuk memahami apa yang dirasakan oleh penderita. Berikut adalah beberapa frasa atau kalimat yang sebaiknya dihindari:",
+   "Mengalami depresi itu berbeda dengan mengalami hari yang buruk. Kita mungkin bisa bangkit dari hari yang buruk dengan mudah. Sebaliknya, seseorang yang mengalami depresi memerlukan perawatan dalam jangka waktu yang cukup lama. Bahkan, hingga berbulan-bulan atau bertahun-tahun untuk benar-benar pulih. Jika kamu meminta teman yang depresi untuk berbahagia, hal ini mungkin akan membuatnya semakin menderita. Sebaiknya berikan validasi atas perasaan mereka dengan kata-kata seperti, “Aku tahu mungkin perlu waktu untuk merasa lebih baik, masih ada harapan”.",
+   "Temanmu mungkin terlihat baik-baik saja dalam hidupnya seperti memiliki pekerjaan yang hebat, rumah yang bagus, atau keluarga yang hangat. Namun, ketahuilah bahwa depresi tidak membeda-bedakan orang, tetapi semua bisa rentan terhadap depresi klinis. Orang yang terlihat hebat di permukaan kehidupan bukan berarti tidak terluka.",
+   "Depresi dapat memengaruhi orang secara berbeda-beda. Sebagian besar mungkin akan merasakan perubahan pada kondisi kesehatan fisik akibat mereka terlalu lelah. Sebagian juga ada yang mungkin tampak benar-benar sehat seperti biasanya. Mereka mungkin masih bisa pergi bekerja, bahkan tersenyum dan tertawa. Tidak ada yang tahu apa yang mereka rasakan di dalam pikirannya. Di sisi lain, mereka mungkin mengalami penderitaan internal namun tidak sanggup untuk menunjukkannya di depan umum.",
+   "Benar jika hal ini akan berlalu, namun orang yang mengalami depresi merasa sulit untuk menerima kalimat tersebut. Ketika seseorang berada dalam kondisi depresi, ibaratnya mereka tidak dapat melihat cahaya di ujung terowongan. Depresi terasa tanpa henti dan rasanya tidak pernah berakhir. Daripada mengatakan kalimat tersebut, mungkin kamu bisa mengatakan, “Saat ini mungkin hari-harimu terasa sulit, yang pasti aku akan ada di sisimu untuk membantu”.",
+   "Kalimat ini dapat menyakiti hati seseorang yang sedang mengalami depresi. Jika bisa segera keluar dari fase ini, tentu mereka akan melakukannya. Namun, penyembuhan depresi memerlukan konseling, pengobatan, dan terapi yang tepat agar merasa lebih lega. Itulah beberapa frasa atau kalimat yang sebaiknya dihindari untuk merespon temanmu yang mengalami depresi. Terkadang tanpa kita sadari kata-kata yang kita ucapkan akan berpengaruh terhadap kondisi mental seseorang. Maka dari itu, penting untuk kita pelajari bagaimana cara berkomunikasi yang baik. Kamu bisa tonton satu video berikut ini untuk mendapatkan tipsnya:",
+   "Lakukan hal-hal berikut jika temanmu mengalami depresi:",
+   "Di tengah masa-masa sulit seperti ini, temanmu membutuhkan seseorang yang bakal peduli terhadap kondisinya. Misalnya, kamu bisa memberikan pelukan atau sentuhan tangan lembut untuk menunjukan bahwa kamu benar-benar peduli. Kalau merasa canggung dengan situasi ini, kamu juga bisa cukup mengatakan “Aku peduli sama kamu” atau kalimat lain sejenisnya. Kata-kata puitis mungkin tidak begitu dibutuhkan dalam kondisi seperti ini. Pada intinya,  kamu perlu menunjukkan sikap kepedulian. Ini juga sekaligus memberi tahu orang tersebut bahwa ia penting bagimu.",
+   "Menurut penelitian, orang yang mengalami depresi akan cenderung menarik diri dari lingkungan sekitar. Ini terjadi karena orang tersebut merasa tidak ada yang mengerti apa yang ia rasakan. Langkah penting yang bisa kamu lakukan adalah meluangkan waktu untuk mereka. Kamu bisa menghabiskan waktu bersama dan jangan lupa untuk menawarkan bantuan. Jika ia belum siap untuk bercerita, tidak apa-apa. Cobalah untuk sering berinteraksi seperti menanyakan kabar, bagaimana kondisinya, dan hal lainnya tanpa terlalu memaksanya untuk bercerita. Kamu bisa temui secara langsung atau melalui telepon.",
+   "Depresi akan memberikan beban yang cukup berat bagi orang yang mengalaminya. Selain berpengaruh terhadap mental, depresi juga memengaruhi kondisi fisik seseorang. Jadi, mungkin ada banyak hal yang bisa kamu lakukan untuknya. Ketika menawarkan bantuan, temanmu mungkin awalnya akan menolak tawaran tersebut karena takut membebani. Jelaskan padanya bahwa kamu tidak keberatan dan ingin membantu meringankan pekerjaannya. Misalnya, daripada menanyakan “Apa yang bisa aku lakukan untukmu?”, lebih baik menawarkan bantuan secara spesifik seperti, “Boleh nggak aku datang ke rumahmu hari ini untuk bantu menyiapkan makan malam nanti?”.",
+   "Saat temanmu sudah siap untuk bercerita, coba dengarkan dengan simpatik. Pastikan bahwa kamu mendengarkan tanpa memotong pembicaraan. Dengan memberikan keleluasaan untuk mengungkapkan permasalahan yang dihadapi, kamu dapat membantunya untuk mengurangi perasaan tertekan.",
+   "Orang yang mengalami depresi cenderung merasa lemah karena seolah ada  suatu hal yang salah dengan dirinya. Faktanya, depresi merupakan penyakit yang berhubungan dengan faktor genetik, hormon, dan dapat disebabkan oleh ketidakseimbangan zat kimia di otak. Hal ini bukan berarti mereka lemah, justru mereka membutuhkan banyak kekuatan tenaga untuk melawan. Jadi, sebenarnya mungkin mereka jauh lebih kuat daripada yang dikira selama ini. Yakinkan bahwa ia kuat, tangguh, dan mampu melewati masa-masa ini.",
+   "Seperti penyakit medis lainnya, depresi masih dapat diobati hingga pulih. Yakinkan temanmu bahwa masih ada harapan untuk bangkit dengan melakukan perawatan serta penanganan yang tepat."
+  ],
+  "link": "blog6.html",
+  "subtittle": [
+   "5 Hal yang Tak Boleh Diucapkan Kepada Teman yang Depresi",
+   "1. “Berbahagialah!”",
+   "2. “Kok bisa depresi?”",
+   "3. “Kamu tidak terlihat tertekan.”",
+   "4. “Nanti ini juga akan berlalu.”",
+   "5. “Berhentilah merasa depresi.”",
+   "Cara Membantu Teman yang Depresi",
+   "1. Tunjukkan kepedulian",
+   "2. Ingatkan bahwa kamu selalu ada untuknya",
+   "3. Tanyakan apa yang bisa dibantu",
+   "4. Menjadi pendengar yang baik",
+   "5. Yakinkan bahwa ia bukan orang yang lemah",
+   "6. Tekankan bahwa masih ada harapan"
+  ],
+  "id": "6"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w600/2022/03/Request-Thumbnail-Blog-Emotional-Sponge-01.jpg",
+  "tittle": "Mengenal Emotional Sponge, Kepribadian yang Mudah Menyerap Stres",
+  "author": "Restu Lestari Wulan Utami",
+  "releaseDate": "4 Mar 2022",
+  "descContent": [
+   "Empati merupakan kemampuan memahami perasaan orang lain dengan cara melihat suatu permasalahan melalui  sudut pandang orang tersebut. Sikap empati diperlukan untuk membangun hubungan sosial yang baik dengan orang lain. Sesuai namanya, emotional sponge menandakan tipe kepribadian orang yang mudah menyerap emosi dari lingkungan sekitarnya. Pasalnya, orang ini cenderung memiliki empati tinggi hingga bisa merasakan seberapa dalam rasa sakit atau kesedihan orang lain. Terlebih, jika mereka pernah mengalaminya. Oleh karenanya,  mereka mudah merasa frustrasi, marah, sedih, dan cemas setelah menyerap emosi yang dirasakan orang lain. Selain empati tinggi, seseorang yang memiliki emotional sponge juga memiliki intuisi yang bagus. Akan tetapi, mereka mungkin sulit mengelola emosi yang dirasakan diri sendiri. Justru, mereka malah merasa bertanggungjawab atas hidup orang lain. Ketika orang lain memiliki masalah, seseorang dengan emotional sponge seakan merasa harus membantu menyelesaikan  masalah tersebut. Apabila dia ngga bisa membantu, dia akan merasa bersalah. Dia sulit merasa bahagia ketika mengetahui penderitaan orang lain. Orang dengan emotional sponge lebih sering  mengutamakan hidup orang lain daripada milik diri sendiri. Akibatnya, mereka sering dimanfaatkan oleh orang-orang toxic di sekitar. Perlu kamu tahu bahwa emotional sponge memiliki dampak yang kurang baik untuk kesehatan mental. Ngga jarang seseorang dengan kondisi ini pada akhirnya mengalami kepanikan dan depresi. Oleh karena itu, kamu harus menghindari emotional sponge dan berupaya untuk mengelola emosi lebih  baik.",
+   "",
+   "Kamu ngga salah jika memiliki sikap empati yang tinggi. Namun, kamu juga harus paham bahwa ngga semua hal bisa kamu tangani. Jangan menyalahkan diri sendiri atas emosi negatif yang ada pada  kehidupan orang lain. Kamu harus bisa mengidentifikasi karakter orang dan situasi tertentu yang berpotensi menyerap energimu. Khususnya, mengingat bahwa kamu mudah menyerap emosi yang orang lain  miliki. Maka, batasi interaksimu dengan mereka. Jika kamu diundang ke suatu pesta riuh yang  dipenuhi banyak orang, jangan ragu berkata “tidak” jika kamu enggan untuk datang.",
+   "Seseorang dengan emotional sponge bisa mudah kehilangan energi akibat membaca berita buruk, berada di tempat terlalu ramai, atau kondisi lain yang mengganggu kenyamanannya. Jika kamu berada di restoran dan duduk di sebelah sekelompok orang yang berbuat gaduh sehingga membuat kamu ngga nyaman, lebih baik pindah ke meja lain. Pindahlah ke tempat yang lebih tenang yang membuatmu merasa nyaman.",
+   "Energi dari seseorang dapat berpindah ke orang lain melalui mata dan sentuhan. Seseorang yang memiliki empati tinggi bisa merasakan emosi orang lain, bahkan hanya melalui ekspresi wajah atau tatapan mata. Apabila kamu merasa ngga nyaman dengan seseorang, batasi kontak mata. Hindari pula bersentuhan seperti memeluk atau memegang tangannya. Jika memang harus memeluk, berikat pelukan singkat saja sehingga ngga perlu   khawatir akan menyerap stres yang orang lain rasakan.",
+   "Seseorang dengan empati berlebih membutuhkan waktu sendiri untuk mendapatkan energinya kembali. Ambil waktu yang cukup dengan suasana tenang tanpa panggilan telepon, cahaya ponsel, dan media sosial. Lakukan meditasi atau rekreasi di  alam supaya menemukan suasana bersih, segar, hijau, dan menenangkan sembari melakukan earthing. Earthing merupakan metode terapi dengan melakukan kontak secara langsung dengan permukaan bumi supaya tubuh mendapatkan energi positif dari permukaan bumi."
+  ],
+  "link": "blog7.html",
+  "subtittle": [
+   "Apa Itu Emotional Sponge?",
+   "Cara Menghindari Emotional Sponge",
+   "1.Miliki batasan (boundaries) yang kuat",
+   "2. Jangan ragu menjauhi hal yang mengganggumu",
+   "3. Batasi sentuhan fisik",
+   "4. Ambil jeda waktu"
+  ],
+  "id": "7"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/size/w1000/2022/03/Request-Thumbnail-Blog-Dampak-Menahan-Amarah-01.jpg",
+  "tittle": "5 Dampak Buruk Menahan Amarah, Kenapa Nggak Boleh Menahan Amarah?",
+  "author": "Fathur Rachman",
+  "releaseDate": "5 Mar 2022",
+  "descContent": [
+   "Pernah ngga ngerasa kalau sedang memendam amarah bawaannya bad mood terus? Hal ini sudah pasti akan berdampak buruk bagi sekitar, terlebih buat diri sendiri. Terkadang, seseorang yang ngga bersalah pun akan terkena dampak dari bad mood akibat sering menahan rasa marah. Seseorang yang menahan rasa marah akan merasakan kesedihan, kekesalan, dan frustasi. Kebayang kan kalau emosi ini ngga disalurkan? Nah, berbagai perasaan tersebut juga dapat membuat kondisi psikis menjadi lebih sensitif, khususnya ketika menghadapi komentar dari seseorang hingga hal remeh-temeh lainnya. Saat melakukan komunikasi, kamu bisa mudah terprovokasi karena menemukan satu atau dua hal yang menyinggung. Selain itu, perasaan tersebut dapat membuat emosi negatif menumpuk. Dampaknya pun akan memicu konflik semisal kamu ngga kuat untuk menahannya.",
+   "Dampak menahan amarah berikutnya adalah menumbuhkan sifat pasif-agresif. Perilaku ini merupakan cara seseorang untuk mengekspresikan emosi negatif kepada seseorang. Misalnya ketika memendam rasa marah, orang yang pasif agresif bisa berubah menjadi lebih diam hingga membuat lawan bicara menyadari kesalahannya. Sementara itu, seseorang yang mengalami perilaku pasif-agresif juga bisa terungkap lewat tindakan atau kata-katanya yang sering menyinggung seseorang. Mereka cenderung ingin dipahami oleh orang lain, namun jarang untuk memikirkan perasaan orang lain.",
+   "Jika rasa marah ngga dikelola dengan baik, maka dampaknya bisa melebar terhadap kondisi fisik dan mental kalian. Terlebih bagi seseorang yang sering memendam emosi, biasanya sulit fokus dalam kehidupan sehari-hari. Contohnya, sulit fokus dalam berkonsentrasi dalam mengerjakan pekerjaan. Akibat kurangnya konsentrasi membuat pekerjaan selesai dua kali lebih lama. Menahan emosi membuat seseorang sulit merasakan hal positif dalam kehidupannya. Oleh karenanya, pikiran pun sulit untuk dipakai untuk menghasilkan ide positif ketika ingin berkonsentrasi.",
+   "Rasa marah sering kita jumpai ketika sedang kesal dengan suatu hal. Emosi ini akan menjadi berbahaya jika ditahan dan menumpuk dalam diri. Terutama ketika rasa marah ini membuat seseorang menjadi sering memikirkan hal-hal negatif dalam dirinya. Ketika seseorang menahan rasa marah, maka hormon adrenalin dan kortisol akan bertambah secara konstan. Hormon ini Hal ini berperan untuk meningkatkan perubahan detak jantung, pernapasan, dan tekanan darah. Lalu, perubahan metabolisme yang berpotensi merusak sistem tubuh, seperti gangguan depresi dan kecemasan. Seseorang yang mengalami depresi sangat rentan terhadap tertekan, dan akhirnya seakan kehilangan daya dan upaya untuk melakukan aktivitas. Jika kamu sendiri masih menahan rasa marah tersebut, maka hal itu hanya bisa memperpanjang rasa depresi.",
+   "Apakah kalian pernah nemuin temen yang hanya menjawab “aku gak apa-apa kok” ketika ditanyakan terkait kondisinya?  Padahal, terlihat jelas adanya perbedaan dari raut wajah dan perlakuan yang tak seperti biasanya. Tentu hal seperti ini akan membuat kita bingung sebagai teman. Apakah mereka butuh pertolongan atau kita diamkan saja? Ditambah, jika teman sendiri ngga mengatakan yang sejujurnya kepada kamu, maka tentu ini akan memengaruhi tingkat kepercayaan kamu terhadapnya. Pada tahap ini, lebih baik kamu anjurkan sang teman untuk mengatakan yang sejujurnya. Dengan begitu, kamu bisa lebih menerima dan memberikan waktu untuk dia memikirkan perilakunya.",
+   "Perlu diketahui bahwa emosi negatif seperti munculnya rasa marah ngga akan selalu menimbulkan masalah. Kamu hanya perlu memahami cara mengatasinya. Apabila emosi itu menjadi destruktif bagi diri sendiri, ada kemungkinan hal ini bakal menyerang kesehatan mental dan fisik. Banyak cara yang bisa kamu pakai untuk mengatur amarah negatif tersebut. Salah satunya dengan cara mengekspresikan kemarahan kamu. Namun, ada cara lain yang aku sangat rekomendasikan, yaitu konseling di Satu Persen. Konseling adalah layanan konsultasi one-on-one dengan psikolog Satu persen, di mana kamu juga bisa belajar  mengelola atau mengatasi emosi negatif yang mengganggu kehidupan sehari-hari."
+  ],
+  "link": "blog8.html",
+  "subtittle": [
+   "1. Menjadi mudah sensitif",
+   "2. Pasif-agresif",
+   "3. Sulit berkonsentrasi",
+   "4. Berpotensi terkena depresi",
+   "5. Memengaruhi kepercayaan seseorang",
+   "Cari Tahu Cara Mengatur Amarah dengan Konseling Online"
+  ],
+  "id": "8"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/2022/04/employee-gb0a09c4e0_640.png",
+  "tittle": "Kesehatan Mental Menurun, Harus Apa?",
+  "author": "Cris Rearisky",
+  "releaseDate": "19 Apr 2022",
+  "descContent": [
+   "Kalau menurut WHO, kesehatan mental adalah keadaan di mana kamu memiliki kemampuan untuk mengatasi tekanan dan stres sehari-hari, bekerja secara produktif, serta berkontribusi terhadap lingkunganmu.",
+   "Ada beberapa tanda-tanda yang bisa kamu jadikan patokan untuk mengetahui baik-buruknya kondisi kesehatan mentalmu, diantaranya:",
+   "Masalah itu adalah bagian yang tak terpisahkan dari hidup kita. Siapa sih yang nggak punya masalah? Nah, kamu harus mulai waspada ketika ada saat di mana kamu mulai kesulitan menghadapinya. Misalnya, biasanya kamu bisa selesai mengerjakan tugas kuliah walaupun dengan susah payah. Tapi kali ini, kamu nggak bisa sama sekali menggerakkan dirimu untuk mengerjakan tugas. Hal inilah yang harus kamu perhatikan, barangkali ada sesuatu yang salah dalam dirimu.",
+   "Emosi manusia itu banyak sekali, dan sesekali kita mungkin merasa sedih dan tertekan. Namun, ketika perasaan itu kita alami berlarut-larut, ada baiknya kita waspada dan mulai aware terhadap kondisi kita. Apalagi ketika kamu mulai tidak menikmati aktivitas yang biasanya membuatmu bahagia. Bisa jadi hal tersebut merupakan salah satu tanda menurunnya kondisi kesehatan mentalmu.",
+   "Sebenarnya kedua hal tersebut merupakan hal yang wajar, namun menjadi sesuatu yang perlu kita waspadai apabila terjadi secara terus menerus dan mengganggu keseharian kita. Kedua hal ini menjadi salah satu tanda menurunnya kesehatan mental, karena stress bisa memicu otak kita untuk merasa kelelahan dan berakibat pada konsentrasi dan pengambilan keputusan.",
+   "Salah satu tanda menurunnya kesehatan mental adalah perubahan dalam pola tidur dan makan. Beberapa orang mengalami hilangnya nafsu makan atau kesulitan untuk tidur, sementara beberapa orang yang lain justru mengalami peningkatan nafsu makan atau jam tidur ketika sedang menghadapi stress.",
+   "Makna dan tujuan hidup itu sangat penting bagi kesehatan kita. Tanpa hal tersebut, kita menjadi hilang tujuan dan menganggap hidup tidak lagi berarti. Seringkali, keinginan untuk menyakiti diri atau mengakhiri hidup juga timbul akibat hal ini. Kalau hal tersebut sudah mulai kamu rasakan, ada baiknya kamu mulai waspada.",
+   "",
+   "Meski sulit, usahakan selalu untuk memenuhi kebutuhan dirimu, ya! Makanan sehat bisa menjadi sumber energi, yang juga bisa menimbulkan mood yang bagus dan meningkatkan kekebalan tubuh. Tidur yang cukup dapat me-recharge tubuh dan pikiranmu. Kekurangan tidur dapat membuat tubuh dan pikiranmu tidak berfungsi secara optimal. Sesibuk apapun kegiatanmu, jangan lupa luangkan waktu untuk beristirahat, ya!",
+   "Sebagai makhluk sosial, kita punya kebutuhan emosional untuk menjalin hubungan dengan orang lain. Berbagai penelitian mengungkapkan kalau kesepian bisa berdampak buruk bagi kesehatan mental, bahkan fisik kita. Kamu bisa meluangkan waktu untuk menyapa atau berbincang sejenak dengan teman atau keluargamu setiap hari untuk memenuhi kebutuhan tersebut.",
+   "Kesehatan fisik memiliki hubungan dengan kesehatan mental. Ketika kita melakukan aktivitas fisik, otak kita mengeluarkan hormon serotonin dan endorphin, yang bisa meningkatkan suasana hati. Nggak perlu melakukan aktivitas berat, aktivitas fisik ringan seperti berjalan selama 15 menit, juga sudah dapat membantu meningkatkan kesehatan mentalmu.",
+   "Stress adalah hal yang tidak dapat dihindari dalam hidup kita, Karenanya, penting banget buat kita untuk punya coping yang baik untuk menangani stress. Setiap orang punya caranya masing-masing untuk menangani stress. Temukan cara andalanmu, ya! Kamu bisa bercerita kepada teman, atau melakukan aktivitas-aktivitas yang menenangkan seperti meditasi atau menulis jurnal. Hindari juga melakukan aktivitas yang merusak tubuh untuk menghadapi stress, seperti minum alkohol atau merokok."
+  ],
+  "link": "blog9.html",
+  "subtittle": [
+   "Kesehatan Mental",
+   "Terus, apa saja tanda-tanda kesehatan mental mulai memburuk?",
+   "1. Kesulitan menghadapi masalah sehari-hari",
+   "2. Merasa tidak bahagia dan tertekan",
+   "3. Sulit berkonsentrasi dan mengambil keputusan",
+   "4. Perubahan pola tidur, makan, dan melakukan aktivitas sehari-hari",
+   "5. Merasa hidup tidak berguna dan tidak ada artinya",
+   "Lalu, apa yang bisa aku lakukan untuk meningkatkan kesehatan mentalku?",
+   "1. Memenuhi kebutuhan diri sendiri dengan baik, yaitu dengan makan sehat, tidur teratur",
+   "2. Menjalin hubungan dan komunikasi dengan orang lain",
+   "3. Melakukan aktivitas fisik.",
+   "4. Melakukan penanggulangan (coping) stress dengan baik."
+  ],
+  "id": "9"
+ },
+ {
+  "img": "https://hantu.bo.satupersen.net/content/images/2022/04/woman-g6636fbe9d_640.jpg",
+  "tittle": "7 Tanda Kesehatan Mentalmu dalam Keadaan Baik",
+  "author": "Cris Rearisky",
+  "releaseDate": "19 Apr 2022",
+  "descContent": [
+   "Kesehatan mental dalam kondisi baik itu bukan berarti kita merasakan kebahagiaan setiap saat. Bukan juga berarti kalau kita sama sekali nggak punya masalah. Lalu, apa saja sih tanda-tanda kesehatan mental kita sudah berada dalam kondisi yang lebih baik?",
+   "Seiring berjalannya waktu, kamu mulai memahami kalau sewaktu-waktu mungkin kamu akan merasa sedih dan tertekan. Kamu juga tahu apa yang harus kamu lakukan ketika emosi negatif itu muncul. Kamu menjadi semakin tangguh dan tahu bahwa emosi negatif ini hanyalah gelombang yang akan berlalu. Kamu juga tahu apa yang harus kamu lakukan ketika emosi negatif itu muncul. Ketika kamu membutuhkan bantuan orang lain, kamu juga tidak akan bersikap defensif dan menolaknya. Good days will come again.",
+   "Ketika kondisi kesehatan mentalmu dalam keadaan baik, kamu merasakan kepuasan akan hidupmu. Kamu juga mampu untuk merasakan emosi-emosi positif, seperti perasaan bahagia, perasaan dicintai, atau perasaan syukur. Selain itu, kamu juga terampil melihat sebuah peristiwa dari perspektif lain dan tidak membiarkan dirimu untuk terperangkap dalam emosi negatif berlarut-larut.",
+   "Selama masa-masa sulit,  junk food mungkin jadi teman dalam hidupmu. Kamu juga mungkin melewatkan olahraga dan lupa melakukan rutinitas perawatan pribadi, seperti mandi atau sikat gigi. Kalau kamu sudah mulai menunjukkan perubahan positif dalam hal self-care, seperti makan makanan bergizi, melakukan aktivitas fisik, serta melakukan perawatan pribadi, selamat! Kamu sudah membuat kemajuan dalam hal kesehatan mentalmu.",
+   "Ketika kondisi mentalmu buruk, mungkin kamu kehilangan tujuan hidup, atau tidak dapat berfungsi dan berkontribusi untuk lingkunganmu. Kalau kondisi kesehatan mentalmu sudah membaik, kamu mungkin merasa lebih tenang dan damai, atau bahkan merasa lebih spiritual. Kamu juga merasa bahagia dapat produktif dan berkontribusi, baik itu untuk dirimu sendiri, keluarga, atau bahkan masyarakat.",
+   "Ketika kamu dalam keadaan terpuruk, mungkin kamu menarik diri dari hubungan. Rasanya seperti tidak ada cukup tenaga untuk menjaga hubungan yang kamu miliki. Ketika kesehatan mentalmu dalam keadaan baik, kamu merasa berenergi kembali untuk kembali menjalin hubungan dan memberi mereka perhatian yang layak mereka dapatkan. Kamu juga tidak akan membuang waktumu pada orang-orang toxic dan menoleransi perilaku mereka.",
+   "Sebelumnya, kamu mungkin kerap membenci dan menghukum dirimu ketika kamu gagal mencapai tujuan atau cita-citamu. Kamu mungkin sering membanding-bandingkan diri dengan orang lain, dan menetapkan standar yang tidak realistis pada dirimu sendiri. Adalah sebuah kemajuan besar apabila saat ini kamu mengerti kalau kegagalan adalah hal yang wajar. Kemajuan itu juga dapat berbentuk pemahaman terhadap kelebihan dan kekuranganmu. Kamu mencintai dirimu sendiri dan memiliki hubungan yang baik dengan diri sendiri.",
+   "Ketika kamu sedang merasa down, kamu mungkin merasa tidak percaya diri dengan penampilan atau kemampuanmu. Setelah kesehatan mentalmu membaik, kamu dapat lebih mengenali dirimu sendiri yang luar biasa dan unik, merasa lebih percaya diri dengan siapa dirimu, dan memperbaiki diri dalam hal-hal yang perlu diperbaiki.",
+   "Selain tetap menjalankan rutinitas sehari-harimu, kamu juga dapat melakukan beberapa hal berikut untuk menjaga keadaan mentalmu tetap optimal.",
+   "Mengekspresikan perasaanmu dapat membantumu tetap sehat secara mental dan menghadapi masa-masa sulit dengan lebih baik. Ingat, itu bukan tanda kelemahan, tetapi itu adalah bagian dari caramu menjaga kesehatan mentalmu.",
+   "Ini adalah hal yang tidak bisa di-skip kalau kamu mau menjaga kesehatan mentalmu. Makanan sehat bisa menjadi sumber energi, yang juga bisa menimbulkan mood yang bagus dan meningkatkan kekebalan tubuh. Tidur yang cukup dapat me-recharge tubuh dan pikiranmu. Kekurangan tidur dapat membuat tubuh dan pikiranmu tidak berfungsi secara optimal. Sesibuk apapun kegiatanmu, jangan lupa luangkan waktu untuk beristirahat, ya!",
+   "Sebagai makhluk sosial, kita punya kebutuhan emosional untuk menjalin hubungan dengan orang lain. Berbagai penelitian mengungkapkan kalau kesepian bisa berdampak buruk bagi kesehatan mental, bahkan fisik kita. Kamu bisa meluangkan waktu untuk menyapa atau berbincang sejenak dengan teman atau keluargamu setiap hari untuk memenuhi kebutuhan tersebut.",
+   "Kesehatan fisik memiliki hubungan dengan kesehatan mental. Ketika kita melakukan aktivitas fisik, otak kita mengeluarkan hormon serotonin dan endorphin, yang bisa meningkatkan suasana hati. Nggak perlu melakukan aktivitas berat, aktivitas fisik ringan seperti berjalan selama 15 menit, juga sudah dapat membantu meningkatkan kesehatan mentalmu.",
+   "Tak cuma menimbulkan kesenangan, terkadang kita membutuhkan aktivitas lebih yang bisa menantang kita dan membuat kita punya perasaan seperti “wah, ternyata aku bisa melakukan itu, ya”. Sebagai manusia, kita juga perlu meningkat dan berkembang setiap harinya. Peningkatan itu bisa kamu melakukan lewat aktivitas bermakna, seperti mempelajari hal baru.",
+   "Seperti yang tadi sudah kita bahas, fluktuasi dalam kondisi kesehatan mental adalah hal yang wajar. Saat ini mungkin kita merasa baik, mengalami hari-hari yang indah, namun bukan tidak mungkin apabila suatu hari kita mengalami penurunan kondisi."
+  ],
+  "link": "blog10.html",
+  "subtittle": [
+   "Tanda-tanda perubahan positif dan kesehatan mental yang baik",
+   "1. Kamu memahami bahwa fluktuasi dalam kesehatan mental itu natural dan wajar",
+   "2. You feel good; kamu mampu merasakan emosi-emosi positif",
+   "3. Kamu mulai melakukan self-care secara rutin",
+   "4. Kamu punya sense of belonging",
+   "5. Kamu memiliki hubungan yang sehat",
+   "6. Kamu memiliki hubungan yang sehat dengan diri sendiri",
+   "7. Kamu lebih percaya diri",
+   "Lantas, apa yang bisa aku lakukan untuk menjaga kesehatan mentalku?",
+   "1. Berbicara kepada orang lain tentang perasaanmu",
+   "2. Memenuhi kebutuhan diri sendiri dengan baik",
+   "3. Menjalin hubungan dan komunikasi dengan orang lain",
+   "4. Melakukan aktivitas fisik.",
+   "5. Melakukan pengembangan diri",
+   "Jangan lupa untuk tetap aware dengan kesehatan mentalmu, ya!"
+  ],
+  "id": "10"
+ }
+]

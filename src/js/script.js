@@ -18,7 +18,7 @@ async function getBlog(){
     // let i = result.length-3
     console.log()
 
-    for(let i = result.length-3; i < result.length; i++ ){
+    for(let i = result.length-4; i < result.length; i++ ){
         newsBlog.innerHTML += `
             <div class="p-4 bg-bgSekunder rounded-lg shadow-xl outline-textPrimary outline outline-offset-2 opacity-[95%]">
                 <div class="flex flex-wrap items-center">

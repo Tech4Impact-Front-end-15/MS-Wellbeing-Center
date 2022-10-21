@@ -1,0 +1,8 @@
+nav{
+    opacity: 90%;
+    overflow: hidden;
+    position:sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}

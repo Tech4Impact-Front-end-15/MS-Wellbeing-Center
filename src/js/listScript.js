@@ -18,7 +18,7 @@ let getDataBlog = async () => {
                     ${dummy[i].descContent[0]}
                     </p>
                     <div class="text-center lg:text-right mt-6 lg:mt-12 lg:mr-4 w-full bg-bgPrimary py-2 rounded-lg lg:bg-textWhite lg:py-0 lg:rounded-none hover:opacity-[90%] shadow-lg lg:shadow-none">
-                        <a href="${dummy[i].link}" target="_blank" class="font-semibold text-textWhite lg:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
+                        <a href="page/${dummy[i].link}" target="_blank" class="font-semibold text-textWhite lg:text-textBlack">Readmore<span class="hidden lg:inline">...</span></a>
                     </div>
                 </div>
             </div>

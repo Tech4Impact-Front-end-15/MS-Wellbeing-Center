@@ -7,12 +7,12 @@ async function getBlog(){
 
     // console.log(result)
 
-    const newsBlog = document.querySelector("#newsblog")
+    const viewNewsBlog = document.querySelector("#viewNewsblog")
     // let i = result.length-3
     console.log()
 
     for(let i = result.length-4; i < result.length; i++ ){
-        newsBlog.innerHTML += `
+        viewNewsBlog.innerHTML += `
             <div class="p-4 bg-bgSekunder rounded-lg shadow-xl outline-textPrimary outline outline-offset-2 opacity-[95%]">
                 <div class="flex flex-wrap items-center">
                     <img src="${result[i].img}" alt="dummyBg" class="w-full rounded-t-lg h-full sm:h-[200px] lg:h-[300px]">

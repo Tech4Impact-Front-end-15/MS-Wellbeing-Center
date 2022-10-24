@@ -37,8 +37,9 @@ let getDataBlog = async () => {
         })} else{
             keyNoresult.innerHTML =
             `
-            <h1 class="font-bold text-2xl lg:text-4xl text-center text-textSecondary">Blog dengan judul "${find}" tidak ditemukan atau belum tersedia!</h1>
+            <h1 class="font-bold text-2xl text-center text-textSecondary">${find} is Not Found!</h1>
             `
+            alert("Blog dengan judul "+find+" tidak ditemukan atau belum tersedia!");
         }
 
     }

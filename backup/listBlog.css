@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+    --lh: 1.4rem;
+    line-height: var(--lh);
+    min-height: 100vh;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.title-page{
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.card{
+    flex-direction: column;
+    margin: 1rem 0;
+}
+
+.card img{
+    padding: 1rem 1rem 2rem 1rem;
+}
+
+.card a{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    padding: 1rem 1rem 0 1rem;
+}
+
+.footer-web{
+    background-color: rgb(201, 238, 236);
+    font-weight: 600;
+}
